@@ -1,3 +1,8 @@
+/**
+  This program will take the input of a map of zombies, add a blocking path around them.
+  And then output the map with the blocking path to the user.
+  by Jordan Drost
+**/
 #include <stdio.h>
 #include <stdlib.h>
 void set_zombies(int n, char fredMap[n][n])
